@@ -2,7 +2,7 @@
 
 to run the source code you need to setup SFML
 
-or you can just run the executable file in "build/debug"
+or you can just run the executable file in "bin/Debug"
 
 instructions:
 
